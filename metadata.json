@@ -1,0 +1,7 @@
+{
+  "name": "JerDen Smiles Dental Clinic - Githurai 45",
+  "description": "JerDen Smiles KE Dental Clinic is a premier dental provider located in Githurai 45, Kenya, offering scaling, whitening, root canals, and braces.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
